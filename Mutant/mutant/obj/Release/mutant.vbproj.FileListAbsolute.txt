@@ -1,0 +1,11 @@
+D:\Temp\Mutant\mutant\bin\mutant.dll.config
+D:\Temp\Mutant\mutant\bin\mutant.dll
+D:\Temp\Mutant\mutant\bin\mutant.pdb
+D:\Temp\Mutant\mutant\bin\mutant.xml
+D:\Temp\Mutant\mutant\obj\Release\mutant.vbprojAssemblyReference.cache
+D:\Temp\Mutant\mutant\obj\Release\mutant.Resources.resources
+D:\Temp\Mutant\mutant\obj\Release\mutant.vbproj.GenerateResource.cache
+D:\Temp\Mutant\mutant\obj\Release\mutant.vbproj.CoreCompileInputs.cache
+D:\Temp\Mutant\mutant\obj\Release\mutant.dll
+D:\Temp\Mutant\mutant\obj\Release\mutant.xml
+D:\Temp\Mutant\mutant\obj\Release\mutant.pdb
